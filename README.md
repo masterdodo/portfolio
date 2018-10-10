@@ -1,2 +1,2 @@
-# portfolio
-Portfolio residing on my main site aristovnik.com
+# Portfolio
+Portfolio residing on my main site - https://aristovnik.com
