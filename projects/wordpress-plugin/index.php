@@ -80,7 +80,10 @@
                 Code:<br />
                 <img src="assets/imgs/code_plugin.png" alt="code_plugin"><br />
                 DB Model:<br />
-                <img src="assets/imgs/database_model.png" alt="db_model" width="950"><br />
+                <img src="assets/imgs/database_model.png" alt="db_model" width="950"><br /><br />
+            </div>
+            <div id="github-link">
+                Link to a github repository: <a href="https://github.com/masterdodo/wp-plugin-job-applications"><img src="assets/imgs/github.png" alt="Wordpress plugin" width="50"></a>
             </div>
         </div>
     </div>
